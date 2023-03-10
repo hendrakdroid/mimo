@@ -1,4 +1,4 @@
-.messagebleft-container {
+.messagebleft-container { 
     transition: all .5s ease;
     transition-property: top,right,bottom,left,opacity;
     font-family: Roboto,sans-serif;
